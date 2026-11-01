@@ -11,3 +11,13 @@ Created and executed my first Java programme.
 
 ### File
 - week01/FirstProgram.java
+## Week 2: Development Environment and First Java Program
+- Matriculation Number: 25/18523
+
+### Files
+- `week02/HelloWorld.java`
+
+### How to Run
+1. Open a terminal in the `week02` directory.
+2. Run `javac HelloWorld.java`
+3. Run `java HelloWorld`
