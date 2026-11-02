@@ -21,3 +21,14 @@ Created and executed my first Java programme.
 1. Open a terminal in the `week02` directory.
 2. Run `javac HelloWorld.java`
 3. Run `java HelloWorld`
+## Week 3: Variables, Data Types, Expressions and Input/Output
+
+### Programs
+1. `week03/SimpleCalculator.java` - Performs arithmetic on two numbers.
+2. `week03/AverageCalculator.java` - Calculates total and average of three scores.
+3. `week03/ItemCost.java` - Calculates total cost from quantity and unit price.
+
+### How to Run
+Open a terminal in the `week03` directory, then for each program:
+- `javac ProgramName.java`
+- `java ProgramName`
